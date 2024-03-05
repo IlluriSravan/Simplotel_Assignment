@@ -133,6 +133,10 @@
     #nav-header{
         flex-wrap: wrap;
     }
+    .list-item{
+        font-size: 8px;
+        margin: 3px;
+    }
     .menu-bar{
         margin-right:4px;
     }
